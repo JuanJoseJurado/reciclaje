@@ -62,7 +62,7 @@ $(function(){
 	themeOption['themeFullColor'] = ['skin-1','skin-2','skin-3','skin-4','skin-5','skin-6','skin-7','skin-8','themeFullColor_value','themeFullColor_logo'];
 	themeOption['header'] = ['fixed','static','header_value'];
 	themeOption['bgColor'] = ['#6cc000','#ff0096','#002eff','#00ccd3','#ff2f00','#490bb8','#007df1','#ff0101','bgColor_value'];
-	themeOption['bgImage'] =['bg1.jpg','bg2.jpg','bg3.jpg','bg4.jpg','bgImage_value'];
+	themeOption['bgImage'] =['bg1.png','bg2.jpg','bg3.jpg','bg4.jpg','bgImage_value'];
 	themeOption['bgPatten'] =['pt1.jpg','pt2.jpg','pt3.jpg','pt4.jpg','pt5.jpg','pt6.jpg','pt7.jpg','pt8.jpg','pt9.jpg','pt10.jpg','pt11.jpg','pt12.jpg','bgPatten_value'];
 
 jQuery(document).ready(function(){
